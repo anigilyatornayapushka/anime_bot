@@ -1,1 +1,2 @@
-anime bot using api
+# anibot
+bot for searching an anime to watch
